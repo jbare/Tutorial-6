@@ -1,0 +1,24 @@
+.all {
+	width: 100%;
+}
+.story {
+	background-color: #ABC;
+	margin: 0% 1%;
+}
+.mainStories {
+	width: 65%;
+	float: left;
+}
+.main {
+
+}
+.medium {
+
+}
+.smallStories {
+	width: 31%;
+	float: left;
+}
+.small {
+
+}
